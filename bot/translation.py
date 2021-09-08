@@ -6,7 +6,7 @@ class Translation(object):
     
     START_TEXT = """👋Hey {},
 
-I'm an Autofilter bot v2.0 and you can not Add Me to your Group. I was made for <a href="t.me/{}">this one group</a>. So don't waste your Time...\n\n{}"""
+ഞാൻ CI ADV FILTER BOT 🤩. I was made for <a href="t.me/{}">This one group</a> ഞാൻ പോളി അല്ലേ 🤔🤩...\n\n{}"""
 
 
     HELP_TEXT = """
@@ -28,7 +28,7 @@ I'm an Autofilter bot v2.0 and you can not Add Me to your Group. I was made for 
             
    ☞ <code>Status</code> - <b>Button Will Shows The Stats Of Your Channel</b>
         
-<b><a href="https://t.me/Mo_Tech_YT">© Mo Tech YT</a></b>
+<b><a href="t.me/ci_movies_req">© CI MOVIES</a></b>
 """
     
     ABOUT_TEXT = """<b>☞ 📃Name</b> : <b>Pro Auto Filter Bot V2.O</b>
@@ -40,4 +40,4 @@ I'm an Autofilter bot v2.0 and you can not Add Me to your Group. I was made for 
 <b>☞ 📖Source Code</b> : <a href="https://github.com/MoTechYT/Pro-Auto-Filter-Bot-V2.o">😋Click Here</a></b>
 """
 
-    TEAM = """Team [MoTech YT](t.me/Mo_Tech_YT)"""
+    TEAM = """Team [CI MOVIES](t.me/ci_movies_req)"""
