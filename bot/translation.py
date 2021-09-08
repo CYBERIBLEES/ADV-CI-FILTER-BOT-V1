@@ -37,7 +37,9 @@ class Translation(object):
 
 <b>☞ 📚Library</b> : Pyrogram Asyncio 1.13.0
 
-<b>☞ 📖Source Code</b> : <a href=" https://github.com/CYBERIBLEES/ADV-CI-FILTER-BOT-V1/edit/main/bot/translation.py ">😋Click Here</a></b>
+<b>☞ 📖Source Code</b> : <a href="https://github.com/CYBERIBLEES/ADV-CI-FILTER-BOT-V1">🍿 CLICK HERE 🍿</a></b>
+
+<b>☞ 🎬 Join Ci movie Group</b> : <a href="https://t.me/ci_movies_req">CLICK & JOIN 🎬</a></b>
 """
 
     TEAM = """Team [CI MOVIES](t.me/ci_movies_req)"""
