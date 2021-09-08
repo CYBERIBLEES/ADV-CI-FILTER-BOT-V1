@@ -37,7 +37,7 @@ class Translation(object):
 
 <b>☞ 📚Library</b> : Pyrogram Asyncio 1.13.0
 
-<b>☞ 📖Source Code</b> : <a href="https://github.com/MoTechYT/Pro-Auto-Filter-Bot-V2.o">😋Click Here</a></b>
+<b>☞ 📖Source Code</b> : <a href=" https://github.com/CYBERIBLEES/ADV-CI-FILTER-BOT-V1/edit/main/bot/translation.py ">😋Click Here</a></b>
 """
 
     TEAM = """Team [CI MOVIES](t.me/ci_movies_req)"""
